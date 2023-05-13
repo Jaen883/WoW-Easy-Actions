@@ -21,6 +21,7 @@ local buttonActions = {
     {name = "LFG (/6)", command = "/6"},
     {name = "Guild (/7)", command = "/7"},
     {name = "Officer (/8)", command = "/8"},
+    {name = "Party (/8)", command = "/p"},
     {name = "Raid (/ra)", command = "/ra"},
     {name = "Raid Warning (/rw)", command = "/rw"},
     {name = "Battleground (/bg)", command = "/bg"},
