@@ -1,7 +1,6 @@
 # WoW-Easy-Actions
-WoW Easy Actions
 
-Addon Name is a World of Warcraft addon that provides convenient buttons for frequently used chat commands.
+Addon WoW-Easy-Actions is a World of Warcraft addon that provides convenient buttons for frequently used chat commands.
 
 ## Features
 
